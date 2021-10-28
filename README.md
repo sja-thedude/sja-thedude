@@ -72,7 +72,7 @@ I have Completed :
   - Advanced Diploma in Web Design!
   - Currently in Final year of Masters in Computer Application!
 
-  You can view my ![Portfolio](https://sjathedude.wordpress.com/) for entire information and also for the projects I build!
+  You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
 ## Hobbies
   - I love to play ⛹️‍♀️ Basketball as its my favorite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
