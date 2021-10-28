@@ -1,5 +1,6 @@
-### <h2 align="center">Hi there 👋, </h2>
-# <h1 align="center">Syeda Juveria Afreen here</h1><br><h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+## <h2 align="center">Hi there 👋, </h2>
+# <h1 align="center">Syeda Juveria Afreen here</h1>
+# <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
 ## <p align="center">Welcome To My Profile</p>
 
@@ -65,7 +66,6 @@
 ## About Me
 &nbsp;
 ## Educational Qualifications
-&nbsp;
 I have Completed :
   - Bachelors in Computer Application!
   - Professional Diploma in Mobile App Development!
@@ -76,8 +76,7 @@ I have Completed :
   You can view my [Portfolio]("https://sjathedude.wordpress.com/") for entire information and also for the projects I build!
 &nbsp;
 ## Hobbies
-&nbsp;
-  - I love to play ⛹️‍♀️ Basketball as its my favourite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
+  - I love to play ⛹️‍♀️ Basketball as its my favorite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
   - Love to travel to new Places ✈️ !
