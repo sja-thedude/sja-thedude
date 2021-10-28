@@ -3,22 +3,19 @@
 # <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
 <p align="center">
-  <img src="./img/" />
+  <img src="./Img/SJA.jpg"/>
 </p>
-
-&nbps;
 
 ## <p align="center">Welcome To My Profile</p>
 
-<p align="center">💻 I am a **<i>Full Stack Software Developer</i>**! with hands-on experience in developing simple, responsive and dynamic websites using PHP. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.</p>
+<p align="center">💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development with working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.</p>
 
 ## <p align="center">My Professional Stats</p>
 
 ## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
-<hr>
 &nbsp;
 
-## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)<?p> <hr>
+## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)<?p>
 &nbsp;
 
 ## Technical Skills
@@ -35,16 +32,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) &nbsp;
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black) &nbsp;
-<hr>
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 &nbsp;
 
 ## Database
 &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) &nbsp;
-![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) &nbsp;
-<hr>
+![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 &nbsp;
 
 ## Frameworks
@@ -57,31 +52,29 @@
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) &nbsp;
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) &nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) &nbsp;
-<hr>
+![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 &nbsp;
 
 ## IDE
 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) &nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) &nbsp;
-<hr>
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definately invote something like Elon Mask's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions.I like  to stay organized and plan things out so that I can focus my energy on priorities.
-- :slightly_smiling_face: Through Microverse, I'v learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
+- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definitely innovate something like Elon Mask's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
+- :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 
 ## About Me
 
 ## Educational Qualifications
-  
+
 I have Completed :
   - Bachelors in Computer Application!
-  - Professional Dploma in [Mobile App Development]() 
-  - Advanced Diploma in [Web Development]() 
-  - Advanced Diploma in [Web Design]() 
+  - Professional Diploma in [Mobile App Development]("./Certificates/Mobileappdevelopment.pdf")
+  - Advanced Diploma in [Web Development]("./Certificates/Webdevelopment.pdf")
+  - Advanced Diploma in [Web Design]("./Certificates/Webdesign.pdf")
   - Currently in Final year of Masters in Computer Application!
 
 ## Hobbies
@@ -111,4 +104,3 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 <a target="_blank"
 href="https://wa.me/+966572705741"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp;
-
