@@ -15,7 +15,7 @@
 ## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
-## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)<?p>
+## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
 ## Technical Skills
