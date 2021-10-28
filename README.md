@@ -7,25 +7,61 @@
 </p>
 
 &nbsp;
-## Welcome To My Profile
 
-:computer:  **<i>Software Engineer</i>** 
+## <p align="center">Welcome To My Profile</p>
+
+💻 I am a **<i>Full Stack Software Developer</i>**! with hands-on experience in developing simple, responsive and dynamic websites using PHP. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
 
 ## <p align="center">My Professional Stats</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats) &nbsp; &nbsp; &nbsp;
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)
+## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats) &nbsp; &nbsp; &nbsp;
+
+## [![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)
 
 ## Technical Skills
+
+## Languages
+&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) &nbsp;
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black) &nbsp;
 &nbsp;
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+## Database
+&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) &nbsp;
+![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) &nbsp;
+<hr>
+&nbsp;
+
+## Frameworks
+&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) &nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) &nbsp;
+![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) &nbsp;
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) &nbsp;
+<hr>
+&nbsp;
+
+## IDE
+&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) &nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) &nbsp;
 <hr>
 &nbsp;
 
@@ -38,18 +74,17 @@
 ## Educational Qualifications
   
 I have Completed :
-  - Bachelors in Computers 
+  - Bachelors in Computer Application!
   - Professional Dploma in [Mobile App Development]() 
   - Advanced Diploma in [Web Development]() 
   - Advanced Diploma in [Web Design]() 
-  - Currently in Final year of Masters in Computers!
+  - Currently in Final year of Masters in Computer Application!
 
 ## Hobbies
 
-  - I love to play ⛹️‍♀️ Basketball as its my favourite sport!
-  - I regularly play ♟️ chess as it gives me to expand my thinking process.
-  - I like working out as it relieves stress 🏋️‍♀️ !
-  - My one the the way of maintaining my mind is music 🎧 !
+  - I love to play ⛹️‍♀️ Basketball as its my favourite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
+  - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
+  - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
   - Love to travel to new Places ✈️ !
 
 ## You can Contact Me On :
@@ -58,12 +93,18 @@ I have Completed :
 href="https://www.linkedin.com/in/syeda-juveria-afreen-23165898/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
+href="https://instagram.com/sja_thedude"><img
+src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white></img></a> &nbsp;
+<a target="_blank"
 href="https://twitter.com/sja_thedude"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  &nbsp;
+<a target="_blank"
+href="https://codepen.io/SJA"><img
+src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></img></a>  &nbsp;
 <a target="_blank"
 href="mailto:sja.affu765@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://wa.me/+966572705741"><img
-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp;
 
