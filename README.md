@@ -60,11 +60,12 @@
 - I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definitely innovate something like Elon Mask's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
 - :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
+&nbsp;
 
 ## About Me
-
+&nbsp;
 ## Educational Qualifications
-
+&nbsp;
 I have Completed :
   - Bachelors in Computer Application!
   - Professional Diploma in Mobile App Development!
@@ -73,16 +74,16 @@ I have Completed :
   - Currently in Final year of Masters in Computer Application!
 
   You can view my [Portfolio]("https://sjathedude.wordpress.com/") for entire information and also for the projects I build!
-
+&nbsp;
 ## Hobbies
-
+&nbsp;
   - I love to play ⛹️‍♀️ Basketball as its my favourite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
   - Love to travel to new Places ✈️ !
-
+&nbsp;
 ## You can Contact Me On :
-
+&nbsp;
 <a target="_blank"
 href="https://www.linkedin.com/in/syeda-juveria-afreen-23165898/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
