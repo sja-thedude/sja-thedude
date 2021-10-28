@@ -1,6 +1,6 @@
-## <h2 align="center">Hi there 👋, </h2>
-# <h1 align="center">Syeda Juveria Afreen here</h1>
-# <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h2 align="center">Hi there 👋, </h2>
+### <h1 align="center">Syeda Juveria Afreen here</h1>
+### <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
 ## <p align="center">Welcome To My Profile</p>
 
@@ -64,7 +64,6 @@
 &nbsp;
 
 ## About Me
-&nbsp;
 ## Educational Qualifications
 I have Completed :
   - Bachelors in Computer Application!
