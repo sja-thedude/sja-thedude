@@ -64,7 +64,6 @@
 &nbsp;
 
 ## About Me
-&nbsp;
 ## Educational Qualifications
 I have Completed :
   - Bachelors in Computer Application!
