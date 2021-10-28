@@ -72,7 +72,7 @@
 
 I have Completed :
   - Bachelors in Computer Application!
-  - Professional Diploma in [Mobile App Development]("./Certificates/Mobileappdevelopment.pdf")
+  - Professional Diploma in [Mobile App Development]("[embed]./Certificates/Mobileappdevelopment.pdf[/embed]")
   - Advanced Diploma in [Web Development]("./Certificates/Webdevelopment.pdf")
   - Advanced Diploma in [Web Design]("./Certificates/Webdesign.pdf")
   - Currently in Final year of Masters in Computer Application!
