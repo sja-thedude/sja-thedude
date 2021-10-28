@@ -29,17 +29,28 @@
 <hr>
 &nbsp;
 
-- I’m interested in :robot_face: Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definately invote something like Elon Mask's Tesla, SpaceX or like David Hanson's Hanson Robotics!
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions.I like  to stay organized and plan things out so that I can focus my energy on priorities. I don’t easily lose my way when adversity strikes, and keeping a level head when problems arise helps me make good decisions and maintain an optimistic attitude.
+- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definately invote something like Elon Mask's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions.I like  to stay organized and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I'v learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 
 ## About Me
 
-  - 
-  - 
-  -
-  -
-  - 
+## Educational Qualifications
+  
+I have Completed :
+  - Bachelors in Computers 
+  - Professional Dploma in [Mobile App Development]() 
+  - Advanced Diploma in [Web Development]() 
+  - Advanced Diploma in [Web Design]() 
+  - Currently in Final year of Masters in Computers!
+
+## Hobbies
+
+  - I love to play ⛹️‍♀️ Basketball as its my favourite sport!
+  - I regularly play ♟️ chess as it gives me to expand my thinking process.
+  - I like working out as it relieves stress 🏋️‍♀️ !
+  - My one the the way of maintaining my mind is music 🎧 !
+  - Love to travel to new Places ✈️ !
 
 ## You can Contact Me On :
 
