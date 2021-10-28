@@ -2,10 +2,6 @@
 # <h1 align="center">Syeda Juveria Afreen here</h1>
 # <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
-<p align="center">
-  <img src="./Img/SJA.jpg"/>
-</p>
-
 ## <p align="center">Welcome To My Profile</p>
 
 <p align="center">💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development with working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.</p>
@@ -72,10 +68,12 @@
 
 I have Completed :
   - Bachelors in Computer Application!
-  - Professional Diploma in [Mobile App Development]("[embed]./Certificates/Mobileappdevelopment.pdf[/embed]")
-  - Advanced Diploma in [Web Development]("./Certificates/Webdevelopment.pdf")
-  - Advanced Diploma in [Web Design]("./Certificates/Webdesign.pdf")
+  - Professional Diploma in Mobile App Development!
+  - Advanced Diploma in Web Development!
+  - Advanced Diploma in Web Design!
   - Currently in Final year of Masters in Computer Application!
+
+  You can view my [Portfolio]("https://sjathedude.wordpress.com/") for entire information and also for the projects I build!
 
 ## Hobbies
 
