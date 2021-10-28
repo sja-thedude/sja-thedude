@@ -6,17 +6,20 @@
   <img src="./img/" />
 </p>
 
-&nbsp;
+&nbps;
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a **<i>Full Stack Software Developer</i>**! with hands-on experience in developing simple, responsive and dynamic websites using PHP. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
+<p align="center">💻 I am a **<i>Full Stack Software Developer</i>**! with hands-on experience in developing simple, responsive and dynamic websites using PHP. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.</p>
 
 ## <p align="center">My Professional Stats</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p> &nbsp;
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
+<hr>
+&nbsp;
 
-## [![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)
+## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)<?p> <hr>
+&nbsp;
 
 ## Technical Skills
 
@@ -33,6 +36,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) &nbsp;
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black) &nbsp;
+<hr>
 &nbsp;
 
 ## Database
