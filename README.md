@@ -14,7 +14,7 @@
 
 ## <p align="center">My Professional Stats</p>
 
-## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats) &nbsp; &nbsp; &nbsp;
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p> &nbsp;
 
 ## [![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)
 
@@ -94,7 +94,7 @@ href="https://www.linkedin.com/in/syeda-juveria-afreen-23165898/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://instagram.com/sja_thedude"><img
-src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white></img></a> &nbsp;
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://twitter.com/sja_thedude"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  &nbsp;
