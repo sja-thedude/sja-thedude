@@ -4,7 +4,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development with working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
+💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
 
 ## <p align="center">My Professional Stats</p>
 
@@ -24,9 +24,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
@@ -61,7 +61,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definitely innovate something like Elon Mask's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definitely innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
 - :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
@@ -73,7 +73,7 @@ I have Completed :
   - Professional Diploma in Mobile App Development!
   - Advanced Diploma in Web Development!
   - Advanced Diploma in Web Design!
-  - Currently in Final year of Masters in Computer Application!
+  - Currently in Final year of my Masters in Computer Application!
 
   You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
