@@ -8,7 +8,7 @@
 
 ## <p align="center">My Professional Stats</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
 ## <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sja-thedude&)](https://github.com/sja-thedude/github-readme-stats)</p>
