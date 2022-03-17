@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋, </h2>
 ### <h1 align="center">Syeda Juveria Afreen here</h1>
-### <h3 align="center">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h3 align="center">✨I am currently Technical Support Engineer and Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
 ## <p align="center">Welcome To My Profile</p>
 
@@ -61,8 +61,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation , Robotics and will definitely innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
+- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation, Robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
 
@@ -73,12 +73,12 @@ I have Completed :
   - Professional Diploma in Mobile App Development!
   - Advanced Diploma in Web Development!
   - Advanced Diploma in Web Design!
-  - Currently in Final year of my Masters in Computer Application!
+  - Final year of Master in Computer Application!
 
   You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
 ## Hobbies
-  - I love to play ⛹️‍♀️ Basketball as its my favorite sport! I regularly play ♟️ chess as it gives me to expand my thinking process.
+  - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
   - Love to travel to new Places ✈️ !
