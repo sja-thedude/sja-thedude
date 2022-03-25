@@ -73,7 +73,7 @@ I have Completed :
   - Professional Diploma in Mobile App Development!
   - Advanced Diploma in Web Development!
   - Advanced Diploma in Web Design!
-  - Final year of Master in Computer Application!
+  - Master in Computer Application!
 
   You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
