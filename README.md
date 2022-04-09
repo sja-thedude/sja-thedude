@@ -4,7 +4,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
+💻 I am **<i>currently Technical Support Engineer and Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
 
 ## <p align="center">My Professional Stats</p>
 
