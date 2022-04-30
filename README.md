@@ -85,7 +85,7 @@ I have Completed :
   - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
-  - Love to travel to new Places ✈️ !
+  - I Love to travel to new Places ✈️ !
 &nbsp;
 ## You can Contact Me On :
 &nbsp;
