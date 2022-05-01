@@ -77,7 +77,7 @@ I have Completed :
   - Professional Diploma in Mobile App Development distinction!
   - Advanced Diploma in Web Development with distinction!
   - Advanced Diploma in Web Design with distinction!
-  - Master in Computer Application with gpa 3.84/4 !
+  - Master in Computer Application with GPA 3.84/4 !
 
   You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
