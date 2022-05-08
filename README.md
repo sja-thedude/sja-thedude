@@ -1,4 +1,4 @@
-### <h2 align="center">Hi there 👋, </h2>
+### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen here</h1>
 ### <h3 align="center">✨Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
@@ -78,7 +78,7 @@ I have Completed :
   - Advanced Diploma in Web Development with distinction!
   - Advanced Diploma in Web Design with distinction!
   - Master in Computer Application with GPA 3.84/4 !
-
+  You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!
   You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
 ## Hobbies
