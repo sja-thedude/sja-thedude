@@ -79,7 +79,6 @@ I have Completed :
   - Advanced Diploma in Web Design with distinction!
   - Master in Computer Application with GPA 3.84/4 !
   You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!
-  You can view my<a href="https://sjathedude.wordpress.com"> Portfolio </a>for entire information and also for the projects I build!
 &nbsp;
 ## Hobbies
   - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
