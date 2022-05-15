@@ -8,7 +8,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. Also I am a <i>Full Stack Software Developer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
+💻 I am <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance. Also I am a <i>Full Stack Software Developer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
 
 ## <p align="center">My Professional Stats</p>
 
@@ -66,6 +66,7 @@
 &nbsp;
 
 - I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation, Robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- I love working on video games as it's one of my field of interest.
 - :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
