@@ -8,17 +8,17 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance. Also I am a <i>Full Stack Software Developer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
+💻 I am <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance. Also I am a <i>Full Stack Software Developer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Also I am a <i>Game Developer</i> with handson experience in developing game projects which you can find in my repo.
 
 ## <p align="center">My Professional Stats</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![Top Languages](https://github-readme-stats.herokuapp.com/?user=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
 ## <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
-## <p align="center">[![My Github Stats](https://github-readme-stats.vercel.app/api?username=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![My Github Stats](https://github-readme-stats.herokuapp.com/?user=sja-thedude&theme=radical)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
 ## Technical Skills
