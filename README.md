@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen here</h1>
-### <h3 align="center">✨Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h3 align="center">✨ Software Engineer | Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
@@ -8,7 +8,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am currently <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance. Also I am a <i>Full Stack Software Developer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. I also have experience in Game Development working on some games. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Also I am a <i>Game Developer</i> with handson experience in developing video game projects made on unity with C# which you can find in my repo.
+💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. Also I am expertise in Game Development working on some video games on Unity with C#. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Currently I am <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance.
 
 ## <p align="center">My Professional Stats</p>
 
