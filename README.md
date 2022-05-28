@@ -75,7 +75,7 @@
 ## Educational Qualifications
 I have Completed :
   - Bachelors in Computer Application!
-  - Professional Diploma in Mobile App Development distinction!
+  - Professional Diploma in Mobile App Development with distinction!
   - Advanced Diploma in Web Development with distinction!
   - Advanced Diploma in Web Design with distinction!
   - Master in Computer Application with GPA of 3.84/4!
