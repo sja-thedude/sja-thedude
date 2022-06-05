@@ -75,7 +75,7 @@
 ## About Me
 ## Educational Qualifications
 I have Completed :
-  - Bachelors in Computer Application in 2017!
+  - Bachelor in Computer Application in 2017!
   - Professional Diploma in Mobile App Development with distinction in 2018!
   - Advanced Diploma in Web Development with distinction in 2018!
   - Advanced Diploma in Web Design with distinction in 2018!
