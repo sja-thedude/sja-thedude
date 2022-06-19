@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen here</h1>
-### <h3 align="center">✨ Software Engineer | Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h3 align="center">✨ Software Engineer | Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
