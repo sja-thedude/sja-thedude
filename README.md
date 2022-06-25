@@ -1,5 +1,5 @@
 ### <h2 align="center">Hi there 👋,</h2>
-### <h1 align="center">Syeda Juveria Afreen here</h1>
+### <h1 align="center">Its Syeda Juveria Afreen Known as SJA</h1>
 ### <h3 align="center">✨ Software Engineer | Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
 
 <p align="center">
