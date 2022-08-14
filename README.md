@@ -8,7 +8,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. Also I am expertise in Game Development working on video games on Unity with C#. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Currently I work as <i>Game developer</i> where I build games on unity with C# and also <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews. By proposing improvements in their source code and checking quality for quality assurance.
+💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. Also I am expertise in Game Development working on video games on Unity with C#. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Currently I work as <i>Game developer</i> where I build games on unity with C# and also <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews.
 
 ## <p align="center">My Professional Stats</p>
 
