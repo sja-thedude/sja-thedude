@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen <br> Known as SJA</h1>
-### <h3 align="center">✨ Co-Founder & Game Developer at ![Apex Games](https://img.shields.io/badge/ApexGames-multi)| Game Developer :woman_technologist: at ![Dovelp](https://img.shields.io/badge/Dovelp-blue) | Technical Support Engineer 💻 at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
+### <h3 align="center">✨ Co-Founder | CTO | Game Developer ![Apex Games](https://img.shields.io/badge/ApexGames-multi) <br/> Game Developer :woman_technologist: ![Dovelp](https://img.shields.io/badge/Dovelp-blue) <br/> Technical Support Engineer 💻 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
