@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen <br> Known as SJA</h1>
-### <h3 align="center">✨ Co-Founder | CTO | Game Developer ![Apex Games](https://img.shields.io/badge/ApexGames-multi) <br/> Game Developer :woman_technologist: ![Dovelp](https://img.shields.io/badge/Dovelp-blue) <br/> Technical Support Engineer 💻 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
+### <h3 align="center">✨ Co-Founder & CTO ![Apex Games](https://img.shields.io/badge/ApexGames-multi) <br/> Game Developer :woman_technologist: ![Dovelp](https://img.shields.io/badge/Dovelp-blue) <br/> Technical Support Engineer 💻 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
@@ -8,7 +8,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using PHP. Also I am expertise in Game Development working on video games on Unity with C# & Unreal Engine with Blueprints and C++. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Currently I am <i>Co-Founder</i> where I take all technical decisions, <i>Game developer</i> where I build games on unity with C# and <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews.
+💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using HTML/CSS, JS, React, Redux, Ruby, Ruby on Rails, PHP & PostgreSQL. Also I am expertise in Game Development working on video games on Unity with C# & Unreal Engine with Blueprints and C++. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Currently I am <i>Co-Founder & CTO</i> where I take all technical decisions, with building games on unity with C# alongside other game developers and <i>Technical Support Engineer</i> where I provide technical support remotely to junior international web developers through code reviews.
 
 ## <p align="center">My Professional Stats</p>
 
