@@ -75,11 +75,11 @@
 ## About Me
 ## Educational Qualifications
 I have Completed :
-  - Bachelor in Computer Application in 2017!
+  - Bachelors in Computer Application in 2017!
   - Professional Diploma in Mobile App Development with distinction in 2018!
   - Advanced Diploma in Web Development with distinction in 2018!
   - Advanced Diploma in Web Design with distinction in 2018!
-  - Master in Computer Application with GPA of 3.84/4 in 2022!
+  - Masters in Computer Application with GPA of 3.84/4 in 2022!
   
   _You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!_
 &nbsp;
