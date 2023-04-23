@@ -65,7 +65,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation, Robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
+- I’m highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation, Robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
 - I love playing and working on video games as it's one of my field of interest.
 - I like reading science related stuff as it gives me knowledge on various topics and satisfies my curiosity to know about new things.
 - :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
