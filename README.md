@@ -1,5 +1,5 @@
 ### <h2 align="center">Hi there 👋,</h2>
-### <h1 align="center">Syeda Juveria Afreen <br> Known as SJA</h1>
+### <h1 align="center">Syeda Juveria Afreen <br> (SJA)</h1>
 ### <h3 align="center">✨ Motivational Content Creator <br/> Co-Founder & CTO ![Apex Games](https://img.shields.io/badge/ApexGames-multi) <br/> Sr. Software Engineer 💻 ![GenRAIT](https://img.shields.io/badge/GenRAIT-darkblue) <br/> Writer :woman_technologist: ![Life Lovers Magazine](https://img.shields.io/badge/LifeLoversMagazine-pink) ✨</h3>
 
 <p align="center">
