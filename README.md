@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen <br> (SJA)</h1>
-### <h3 align="center">✨ Motivational Content Creator <br/> Co-Founder & CTO ![Apex Games](https://img.shields.io/badge/ApexGames-multi) <br/> Lead Software Engineer 💻 ![Khepri Service](https://img.shields.io/badge/KhepriService-darkblue) <br/> Writer :woman_technologist: ![Life Lovers Magazine](https://img.shields.io/badge/LifeLoversMagazine-pink) ✨</h3>
+### <h3 align="center">✨ Co-Founder & CTO 🎮 | Software Developer 🔭 | Content Creator 🦾 | Dual Master’s: MCA 💻 + MEng Robotics 🤖 !✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
@@ -8,7 +8,7 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using HTML/CSS, JS, React, Redux, Ruby, Ruby on Rails, PHP & PostgreSQL. Also I am expertise in Game Development working on video games on Unity with C# & Unreal Engine with Blueprints and C++. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.<br/>Currently I am <i>Lead Software Engineer</i> at Khepri Service where I am responsible to write efficient code, test and debug the application on both traditional and no-code platforms. Also, <i>Co-Founder & CTO</i> at Apex Games where I take all technical decisions, with working on Casino Apex Game on unity with C# alongside other game developers and <i>Content Writer at Life Lovers Magazine. And have previous experience as <i>Senior Software Engineer</i> at GenRAIT inc where I am responsible to write efficient code, test and debug the application using MEAN stack and <i>Technical Support Engineer</i> at Microverse where I have provided technical support remotely to junior international web developers through code reviews also as Game Producer & Developer</i> at Dovelp with working on Breaching Shadows Game alongside other team mates. Also I am a motivational content creator where I post motivational content on Likedin and jobs on Whatsapp Group. I like to motivate people to make them better version of themselves.
+💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using HTML/CSS, JS, React, Redux, Ruby, Ruby on Rails, PHP & PostgreSQL. Also I am expertise in Game Development working on video games on Unity with C# & Unreal Engine with Blueprints and C++. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.<br/>Currently I am <i>Lead Software Engineer</i> at Khepri Service where I am responsible to write efficient code, test and debug the applications on both traditional and no-code platforms. Also, <i>Co-Founder & CTO</i> at Apex Games where I take all technical decisions, with working on Casino Apex Game on unity with C# alongside other game developers and <i>Content Writer at Life Lovers Magazine. And have previous experience as <i>Senior Software Engineer</i> at GenRAIT Inc. where I am responsible to write efficient code, test and debug the application using MEAN stack and <i>Technical Support Engineer</i> at Microverse where I have provided technical support remotely to junior international web developers through code reviews also as Game Producer & Developer</i> at Dovelp with working on Breaching Shadows Game alongside other team mates. Also I am a motivational content creator where I post motivational content on Linkedin and jobs on Whatsapp Group. I like to motivate people to make them better version of themselves.
 
 ## <p align="center">My Professional Stats</p>
 
@@ -65,21 +65,21 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation, Robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or like David Hanson's Hanson Robotics 🦾!
-- I love playing and working on video games as it's one of my field of interest.
-- I like reading science related stuff as it gives me knowledge on various topics and satisfies my curiosity to know about new things.
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out so that I can focus my energy on priorities.
+- I’m highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation and robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or David Hanson's Hanson Robotics 🦾!
+- I love playing and working on video games as it's one of my fields of interest.
+- I like reading science-related stuff as it gives me knowledge on various topics and satisfies my curiosity to know about new things.
+- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to contemplate things before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain various possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out to focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
 
 ## About Me
 ## Educational Qualifications
 I have Completed :
-  - Bachelors in Computer Application in 2017 !
+  - Bachelor in Computer Application in 2017!
   - Professional Diploma in Mobile App Development with distinction in 2018!
   - Advanced Diploma in Web Development with distinction in 2018!
   - Advanced Diploma in Web Design with distinction in 2018!
-  - Masters in Computer Application with GPA of 3.84/4 in 2022!
+  - Masters in Computer Application with a GPA of 3.84/4 in 2022!
   
   _You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!_
 &nbsp;
@@ -87,7 +87,7 @@ I have Completed :
   - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
-  - I Love to travel to new Places ✈️ !
+  - I love to travel to new places ✈️ !
 &nbsp;
 ## You can Contact Me On :
 &nbsp;
@@ -106,6 +106,3 @@ src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepe
 <a target="_blank"
 href="mailto:sja.affu765@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
-<a target="_blank"
-href="https://wa.me/+966572705741"><img
-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp;
