@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋,</h2>
 ### <h1 align="center">Syeda Juveria Afreen <br> (SJA)</h1>
-### <h3 align="center">✨ Co-Founder & CTO 🎮 | Software Developer 🔭 | Content Creator 🦾 | Dual Master’s: MCA 💻 + MEng Robotics 🤖 !✨</h3>
+### <h3 align="center">✨ Co-Founder & CTO 🎮 | Python Developer | Content Creator 🦾 | Dual Master’s: MCA 💻 + MEng Robotics 🤖 !✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
