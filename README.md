@@ -42,7 +42,7 @@ I'm also a motivational content creator on LinkedIn and run a WhatsApp community
   </a>
   &nbsp;
   <a href="https://github.com/sja-thedude">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&amp;theme=default&amp;utcOffset=5.5" alt="Productive Time"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&amp;theme=default&amp;utcOffset=3" alt="Productive Time"/>
   </a>
 </p>
 
