@@ -12,13 +12,13 @@
 
 ## <p align="center">My Professional Stats</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja-thedude)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sja-thedude&theme=default)](https://github.com/sja-thedude) [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sja-thedude&theme=default)](https://github.com/sja-thedude)</p>
 &nbsp;
 
-## <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sja-thedude)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![My Streak Stats](https://streak-stats.demolab.com/?user=sja-thedude)](https://github.com/sja-thedude/github-readme-stats)</p>
 &nbsp;
 
-## <p align="center">[![SJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=sja-thedude)](https://github.com/sja-thedude/github-readme-stats)</p>
+## <p align="center">[![SJA's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sja-thedude&theme=default)](https://github.com/sja-thedude)</p>
 &nbsp;
 
 ## Technical Skills
