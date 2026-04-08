@@ -12,7 +12,21 @@
 
 ## <p align="center">Welcome To My Profile</p>
 
-💻 I am a <i>Software Engineer</i> with hands-on experience in developing simple, responsive and dynamic websites using HTML/CSS, JS, React, Redux, Ruby, Ruby on Rails, PHP & PostgreSQL. Also I am expertise in Game Development working on video games on Unity with C# & Unreal Engine with Blueprints and C++. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.<br/>Currently I am Founder & CEO at SJA Pathway plus have previous experience as <i>Senior Software Engineer</i> at GenRAIT Inc. where I am responsible to write efficient code, test and debug the application using MEAN stack and <i>Technical Support Engineer</i> at Microverse where I have provided technical support remotely to junior international web developers through code reviews also as Game Producer & Developer</i> at Dovelp with working on Breaching Shadows Game alongside other team mates.<i> Also Lead Software Engineer</i> at Khepri Service where I am responsible to write efficient code, test and debug the applications on both traditional and no-code platforms. And, <i>Co-Founder & CTO</i> at Apex Games where I take all technical decisions, with working on Casino Apex Game on unity with C# alongside other game developers and <i>Content Writer at Life Lovers Magazine. Also I am a motivational content creator where I post motivational content on Linkedin and jobs on Whatsapp Group. I like to motivate people to make them better version of themselves.
+💻 I'm a <i>Software Engineer</i> who builds clean, responsive, and dynamic web applications using HTML/CSS, JavaScript, React, Redux, Ruby on Rails, PHP & PostgreSQL. I also specialize in <i>Game Development</i>, creating video games with Unity (C#) and Unreal Engine (Blueprints & C++).
+
+Beyond technical skills, I bring strong time management, clear communication, the ability to thrive under pressure, and a passion for picking up new technologies quickly. I'm a firm believer in collaboration and have honed my remote teamwork skills through pair programming.
+
+<b>My Journey So Far:</b>
+
+- <i>Founder & CEO</i> at <b>SJA Pathway</b> — leading the vision and building the platform from the ground up.
+- <i>Senior Software Engineer</i> at <b>GenRAIT Inc.</b> — developed and debugged applications using the MEAN stack.
+- <i>Technical Support Engineer</i> at <b>Microverse</b> — mentored junior international web developers through code reviews.
+- <i>Game Producer & Developer</i> at <b>Dovelp</b> — collaborated on the Breaching Shadows game with a cross-functional team.
+- <i>Lead Software Engineer</i> at <b>Khepri Service</b> — built and maintained applications on both traditional and no-code platforms.
+- <i>Co-Founder & CTO</i> at <b>Apex Games</b> — led all technical decisions and developed Casino Apex on Unity with C#.
+- <i>Content Writer</i> at <b>Life Lovers Magazine</b> — authored motivational and lifestyle content.
+
+I'm also a motivational content creator on LinkedIn and run a WhatsApp community for job opportunities. I'm driven by the desire to help people become the best version of themselves.
 
 ## <p align="center">My Professional Stats</p>
 
@@ -28,7 +42,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/sja-thedude">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&theme=default&utcOffset=5.5" alt="Productive Time"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&amp;theme=default&amp;utcOffset=5.5" alt="Productive Time"/>
   </a>
 </p>
 
@@ -100,31 +114,30 @@
 
 ## <p align="center">Interests</p>
 
-- I'm highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation and robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or David Hanson's Hanson Robotics 🦾!
-- I love playing and working on video games as it's one of my fields of interest.
-- I like reading science-related stuff as it gives me knowledge on various topics and satisfies my curiosity to know about new things.
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to contemplate things before acting so that I can commit my energy confidently to a course of action. I'm a creative thinker who likes to entertain various possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out to focus my energy on priorities.
-- :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
+- 🤖 Deeply passionate about <b>Robotics</b> and :desktop_computer: <b>Artificial Intelligence</b> — inspired by innovators like Elon Musk (Tesla, SpaceX :rocket:) and David Hanson (Hanson Robotics 🦾). I aspire to build something equally groundbreaking.
+- Enthusiastic about <b>Game Development</b> — I enjoy both playing and creating video games as a creative outlet.
+- Avid reader of <b>science and technology</b> — always curious to learn how things work and explore new ideas.
+- :+1: As an <b>INTJ</b>, I'm naturally analytical, strategic, and driven by logic. I think before I act, explore multiple possibilities, and stay organized to channel my energy where it matters most.
+- :slightly_smiling_face: Through <b>Microverse</b>, I discovered the power of collaboration. Remote pair programming taught me that tackling challenges as a team leads to better solutions and deeper insights.
 &nbsp;
 
 ## <p align="center">About Me</p>
 
 ### Educational Qualifications
-I have Completed :
-  - Bachelor in Computer Application in 2017!
-  - Professional Diploma in Mobile App Development with distinction in 2018!
-  - Advanced Diploma in Web Development with distinction in 2018!
-  - Advanced Diploma in Web Design with distinction in 2018!
-  - Masters in Computer Application with a GPA of 3.84/4 in 2022!
+  - Bachelor of Computer Application — 2017
+  - Professional Diploma in Mobile App Development (with Distinction) — 2018
+  - Advanced Diploma in Web Development (with Distinction) — 2018
+  - Advanced Diploma in Web Design (with Distinction) — 2018
+  - Master of Computer Application (GPA: 3.84/4) — 2022
   
-  _You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!_
+  _Check out my <a href="https://sja-portfolio.netlify.app/">Portfolio</a> for a complete overview of my work and projects!_
 &nbsp;
 
 ### Hobbies
-  - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
-  - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
-  - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
-  - I love to travel to new places ✈️ !
+  - ⛹️‍♀️ <b>Basketball</b> is my favourite sport, and I regularly play ♟️ <b>chess</b> to sharpen my strategic thinking.
+  - 🏋️‍♀️ I stay active through workouts and unwind with music 🎧 — it's my go-to stress reliever.
+  - 🦁 People say my personality resembles a lion — relentless, fearless, and always going after what I want.
+  - ✈️ I love exploring new places and experiencing different cultures.
 &nbsp;
 
 ## <p align="center">You can Contact Me On</p>
