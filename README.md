@@ -1,9 +1,13 @@
-### <h2 align="center">Hi there 👋,</h2>
-### <h1 align="center">Syeda Juveria Afreen <br> (SJA)</h1>
-### <h3 align="center">✨ Co-Founder & CEO 🛣️ | Dual Master’s: MCA 💻 + MEng Robotics 🤖 !✨</h3>
+<h2 align="center">Hi there 👋,</h2>
+<h1 align="center">Syeda Juveria Afreen <br> (SJA)</h1>
+<h3 align="center">✨ Co-Founder & CEO 🛣️ | Dual Master's: MCA 💻 + MEng Robotics 🤖 !✨</h3>
 
 <p align="center">
   <img src="profile-pic.jpeg" width="400" height="700"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sja-thedude&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## <p align="center">Welcome To My Profile</p>
@@ -12,18 +16,47 @@
 
 ## <p align="center">My Professional Stats</p>
 
-## <p align="center">[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sja-thedude&theme=default)](https://github.com/sja-thedude) [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sja-thedude&theme=default)](https://github.com/sja-thedude)</p>
-&nbsp;
+<p align="center">
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sja-thedude&theme=default" alt="Profile Details"/>
+  </a>
+</p>
 
-## <p align="center">[![My Streak Stats](https://streak-stats.demolab.com/?user=sja-thedude)](https://github.com/sja-thedude/github-readme-stats)</p>
-&nbsp;
+<p align="center">
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sja-thedude&theme=default" alt="SJA's GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&theme=default&utcOffset=5.5" alt="Productive Time"/>
+  </a>
+</p>
 
-## <p align="center">[![SJA's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sja-thedude&theme=default)](https://github.com/sja-thedude)</p>
-&nbsp;
+<p align="center">
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sja-thedude&theme=default" alt="Top Languages by Repo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sja-thedude&theme=default" alt="Top Languages by Commit"/>
+  </a>
+</p>
 
-## Technical Skills
+<p align="center">
+  <a href="https://github.com/sja-thedude">
+    <img src="https://streak-stats.demolab.com/?user=sja-thedude" alt="My Streak Stats"/>
+  </a>
+</p>
 
-## Languages
+<p align="center">
+  <a href="https://github.com/sja-thedude">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sja-thedude&theme=minimal" alt="Activity Graph"/>
+  </a>
+</p>
+
+## <p align="center">Technical Skills</p>
+
+### Languages
 &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
@@ -38,14 +71,14 @@
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 &nbsp;
 
-## Database
+### Database
 &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) &nbsp;
 ![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 &nbsp;
 
-## Frameworks
+### Frameworks
 &nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
@@ -58,22 +91,25 @@
 ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 &nbsp;
 
-## IDE
+### IDE
 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) &nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 &nbsp;
 
-- I’m highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation and robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or David Hanson's Hanson Robotics 🦾!
+## <p align="center">Interests</p>
+
+- I'm highly interested in 🤖 Robotics and :desktop_computer: Artificial Intelligence. I love Innovation and robotics and will innovate something like Elon Musk's Tesla, SpaceX :rocket: or David Hanson's Hanson Robotics 🦾!
 - I love playing and working on video games as it's one of my fields of interest.
 - I like reading science-related stuff as it gives me knowledge on various topics and satisfies my curiosity to know about new things.
-- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to contemplate things before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain various possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out to focus my energy on priorities.
+- :+1: I have very active internal mental processes. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical and with excellent problem-solving skills.  I like to contemplate things before acting so that I can commit my energy confidently to a course of action. I'm a creative thinker who likes to entertain various possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organized and plan things out to focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
 
-## About Me
-## Educational Qualifications
+## <p align="center">About Me</p>
+
+### Educational Qualifications
 I have Completed :
   - Bachelor in Computer Application in 2017!
   - Professional Diploma in Mobile App Development with distinction in 2018!
@@ -83,14 +119,17 @@ I have Completed :
   
   _You can view my<a href="https://sja-portfolio.netlify.app/"> Portfolio </a>for entire information and also for the projects I build!_
 &nbsp;
-## Hobbies
+
+### Hobbies
   - I love to play ⛹️‍♀️ Basketball as it's my favourite sport! I regularly play ♟️ chess as it helps me to expand my thinking process.
   - I like working out and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
   - People say my personality resembles Lion 🦁 , who never stops and achieves what he wants!
   - I love to travel to new places ✈️ !
 &nbsp;
-## You can Contact Me On :
+
+## <p align="center">You can Contact Me On</p>
 &nbsp;
+<p align="center">
 <a target="_blank"
 href="https://www.linkedin.com/in/syeda-juveria-afreen-23165898/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
@@ -106,3 +145,4 @@ src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepe
 <a target="_blank"
 href="mailto:sja.affu765@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
+</p>
