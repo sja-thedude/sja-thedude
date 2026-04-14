@@ -32,7 +32,7 @@ I'm also a motivational content creator on LinkedIn and run a WhatsApp community
 
 <p align="center">
   <a href="https://github.com/sja-thedude">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sja-thedude&theme=default" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sja-thedude&theme=default&v=2" alt="Profile Details"/>
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I'm also a motivational content creator on LinkedIn and run a WhatsApp community
   </a>
   &nbsp;
   <a href="https://github.com/sja-thedude">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&theme=default&utcOffset=3&v=1" alt="Productive Time"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sja-thedude&theme=default&utcOffset=0&v=2" alt="Productive Time"/>
   </a>
 </p>
 
