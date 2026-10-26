@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#A78BFA"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset=".8" stop-color="#C9A227"/>
+      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#l)" opacity=".7"/>
+  <ellipse cx="0" cy="12" rx="40" ry="6" fill="url(#dot)">
+    <animate attributeName="cx" values="-60;1260" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>

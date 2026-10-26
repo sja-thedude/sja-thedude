@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260" role="img" aria-labelledby="t">
+  <title id="t">Game Developer: Unity, Unreal Engine, Three.js</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140F24"/><stop offset="1" stop-color="#0E0F13"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A1B4D"/><stop offset="1" stop-color="#3B1F4F"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="20" y="78" width="360" height="132" rx="10"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .sans { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+      .hero { animation: jump 1.6s cubic-bezier(.3,0,.5,1) infinite; }
+      @keyframes jump { 0%, 52%, 100% { transform: translateY(0) } 70% { transform: translateY(-46px) } 84% { transform: translateY(-20px) } }
+      .world { animation: scroll 1.6s linear infinite; }
+      @keyframes scroll { from { transform: translateX(0) } to { transform: translateX(-160px) } }
+      .far { animation: scroll2 8s linear infinite; }
+      @keyframes scroll2 { from { transform: translateX(0) } to { transform: translateX(-200px) } }
+      .coin { animation: spin 1s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+      @keyframes spin { from { transform: scaleX(1) } to { transform: scaleX(.2) } }
+      .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0 } }
+    </style>
+  </defs>
+  <rect width="400" height="260" rx="16" fill="url(#bg)" stroke="#A78BFA" stroke-opacity=".45"/>
+  <text x="22" y="38" class="sans" font-size="20" font-weight="800" fill="#A78BFA">GAME DEVELOPER</text>
+  <text x="22" y="60" class="mono" font-size="12" fill="#9CA3AF">Unity · Unreal · Three.js · R3F</text>
+  <text x="378" y="38" text-anchor="end" class="mono" font-size="11" fill="#F472B6">1UP<tspan class="blink"> ▮</tspan></text>
+
+  <g clip-path="url(#screen)">
+    <rect x="20" y="78" width="360" height="132" fill="url(#sky)"/>
+    <!-- far mountains -->
+    <g class="far" fill="#4C2F75" opacity=".8">
+      <path d="M20 180 l40 -40 l30 25 l40 -50 l50 65 l40 -35 l40 35 l40 -45 l40 45 l40 -30 l40 30 l40 -40 l40 40 l40 -25 l40 25 V210 H20 Z"/>
+    </g>
+    <!-- ground + obstacles + coins -->
+    <g class="world">
+      <g fill="#A78BFA">
+        <rect x="20" y="186" width="720" height="4"/>
+      </g>
+      <g fill="#2E1F4A">
+        <rect x="20" y="190" width="720" height="20"/>
+      </g>
+      <g fill="#F472B6">
+        <rect x="240" y="166" width="14" height="20"/><rect x="236" y="170" width="22" height="6"/>
+        <rect x="400" y="166" width="14" height="20"/><rect x="396" y="170" width="22" height="6"/>
+        <rect x="560" y="166" width="14" height="20"/><rect x="556" y="170" width="22" height="6"/>
+      </g>
+      <g fill="#C9A227">
+        <rect class="coin" x="243" y="128" width="9" height="12" rx="2"/>
+        <rect class="coin" x="403" y="128" width="9" height="12" rx="2"/>
+        <rect class="coin" x="563" y="128" width="9" height="12" rx="2"/>
+      </g>
+    </g>
+    <!-- hero (pixel robot-kid) -->
+    <g class="hero">
+      <rect x="196" y="160" width="20" height="18" fill="#22D3EE"/>
+      <rect x="200" y="164" width="4" height="4" fill="#0E0F13"/><rect x="208" y="164" width="4" height="4" fill="#0E0F13"/>
+      <rect x="198" y="178" width="6" height="8" fill="#A5F3FC"/><rect x="208" y="178" width="6" height="8" fill="#A5F3FC"/>
+      <rect x="204" y="154" width="4" height="6" fill="#C9A227"/>
+    </g>
+  </g>
+  <rect x="20" y="78" width="360" height="132" rx="10" fill="none" stroke="#A78BFA" stroke-opacity=".5"/>
+  <text x="22" y="238" class="mono" font-size="11" fill="#D1D5DB">▶ Ouria 3D MMO · Apex Games · Escape™ AI</text>
+</svg>
