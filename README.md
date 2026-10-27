@@ -46,7 +46,7 @@ I'm doing a **Master of Engineering in Robotics at Stevens Institute of Technolo
 | 🎮 **Game development** | 💻 **Software engineering** | 🤖 **Robotics & AI** |
 |---|---|---|
 | **Ouria**: a browser 3D multiplayer MMO with 12 realms, avatars, real-time sync and mini-games, built with Three.js, React Three Fiber and Durable Objects | **JPlatform** and **EPlatform**: AI career and learning SaaS that I built solo, used in 15+ countries | **ATIANA**: a modular humanoid ecosystem covering hands, arms, vision, motion planning, safety and a digital twin |
-| **Apex Games**: as co-founder and CTO, led a carnival-themed Unity/C# MMO and secured grant funding | Built an AI WordPress automation platform with **9,378 automated tests** and a 49/50 clean-build streak | **Fari**: ATIANA's reasoning, communication and task-planning intelligence |
+| **Apex Games**: as co-founder and CTO, led a carnival-themed blockchain MMO in Unity/C# and secured grant funding | Built an AI WordPress automation platform with **9,378 automated tests** and a 49/50 clean-build streak | **Fari**: ATIANA's reasoning, communication and task-planning intelligence |
 | **Escape™ App AI**: LLM-driven avatars, facial mood tracking and AI soundscapes in Unreal Engine | Security audit across **4 Supabase projects**, CI/CD and credential rotation at Map.ca | **MOUS**: an Arabic-dialect-aware AI voice and WhatsApp agent with mood detection |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -103,7 +103,7 @@ A multi-product technology company spanning **AI, SaaS, EdTech, 3D gaming and hu
 | May – Dec 2025 | 🎭 AI & Game QA Developer | Escape™ App AI | LLM avatars, facial mood tracking with PyTorch and TensorFlow, Unreal iOS builds |
 | Feb – Apr 2025 | 🔭 Software Developer | iTelescope.net | Legacy C#/VB/ASP refactor into .NET Core and Blazor, Docker |
 | May 2024 – Nov 2025 | 🌍 Full-Stack PHP Developer | Clients in the US, Europe and Asia | Laravel, Next.js, WHMCS automation, GCP App Engine, CI/CD |
-| Sep 2022 – Jun 2025 | 🎡 **Co-Founder & CTO** | Apex Games | Unity/C# carnival MMO, grant funding, tech talk to 150+ attendees |
+| Sep 2022 – Jun 2025 | 🎡 **Co-Founder & CTO** | Apex Games | Carnival-themed blockchain MMO in Unity/C#, grant funding, tech talk to 150+ attendees |
 | Jan 2023 – Feb 2024 | 🧬 **Senior Software Engineer** | GenRAIT Inc. | MEAN stack with FastAPI microservices on AWS, E2E testing with TestCafe and Cypress, ML for life sciences |
 | Mar 2022 – Feb 2023 | 🧑‍🏫 Technical Support Engineer | Microverse | 600+ code reviews across React, Redux, Rails and PostgreSQL |
 
