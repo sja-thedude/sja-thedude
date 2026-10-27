@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://inc.sjapathway.com"><img src="https://img.shields.io/badge/SJA_Inc.-Founder_·_CEO_·_CTO-C9A227?style=for-the-badge&labelColor=0E0F13" alt="SJA Inc."/></a>
   <a href="https://www.linkedin.com/in/sja-thedude/"><img src="https://img.shields.io/badge/LinkedIn-7k%2B_followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E0F13" alt="LinkedIn"/></a>
-  <a href="https://sja-portfolio.sja-affu765.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-200%2B_projects-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0E0F13" alt="Portfolio"/></a>
+  <a href="https://sja.sjapathway.com/"><img src="https://img.shields.io/badge/Portfolio-200%2B_projects-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0E0F13" alt="Portfolio"/></a>
   <a href="mailto:sja.affu765@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_build-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E0F13" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=sja-thedude&style=for-the-badge&color=C9A227&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
